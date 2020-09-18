@@ -27,7 +27,7 @@ We create Bytes primarily on soft life and career skills that orient on the acti
 
 # 2. Author a Learning Objective (LO)
 
-_Training Session_[<u>recording</u>]() ,[<u>deck</u>](https://docs.google.com/presentation/d/1WcLQcp_Y0sc4J20KfFBYbePwLSNWM3O5NIMgsmmJoJQ/edit?usp=sharing) , and [<u>activity</u>]().
+_Training Session_[<u>recording</u>](https://www.youtube.com/watch?v=6gssAXr12iY) ,[<u>deck</u>](https://docs.google.com/presentation/d/1WcLQcp_Y0sc4J20KfFBYbePwLSNWM3O5NIMgsmmJoJQ/edit?usp=sharing) , and [<u>activity</u>](https://mm.tt/1619674632?t=Y8KOz8cd0L).
 
 ### LO Purpose
 
@@ -50,7 +50,7 @@ But, in contrast to SMART Goals, Byte LOs:
 
 ### Authoring Effective LOs
 
-1. Confirm: _does it align with Rumie's_ [<u>content guidelines</u>](https://docs.google.com/document/d/1S9ceZKlI7ODSk-SCnVW022ErcSoJWgUdwVGrKNhjWSo/edit#heading=h.rq3dbcz1umxk) _?_
+1. Confirm: _does it align with Rumie's_ [<u>content guidelines</u>]_?_
 2. _Confirm: does it add something new to the Byte library?_
 
 * There will be Bytes that cover similar content or overlap in some ways, and that's okay. But, we don't need to create Bytes that repeat what already exists.
@@ -162,7 +162,7 @@ For example:
 
 ### Simplify Writing
 
-_Training Session_ [<u>recording</u>]() _,_ [<u>deck</u>]() _, and_ [<u>activity</u>]() _._
+_Training Session_ [<u>recording</u>](https://zoom.us/rec/play/drkRsld_xtULFHur73td79zZPHW-6CU6BWt-Za3gqi59BnfAt6XckJONCvT-9ncJDVky92DZzi3M80nt.MrvPW82Hx2TG6J1O?continueMode=true&_x_zm_rtaid=53ELe_RUSB-luDDIKyqcog.1600455376325.9e48d7ebb1cb0d60b8c6a28838e7fba0&_x_zm_rhtaid=524) _,_ [<u>deck</u>](https://docs.google.com/presentation/d/1NCcWBYprCFvQdwUCd0F1AF-dIfNT4rJ-Aoq7wbfAivc/edit?fbclid=IwAR1wO3gzEp2lQUxt0T-GM7UQTMrL4GDPSlEA8m9oyJgror8tUoA5vB2REZo) _, and_ [<u>activity</u>](https://docs.google.com/.../1hqWzoJK5nRdm3.../edit...) _._
 
 * To write simply, keep in mind the guiding principle: **first brevity, then clarity.** This means starting with the bare bones and adding supporting details/qualifying words to ensure your message is clear.
 * Cut the jargon and use straight forward vocabulary. Re-read your Byte out loud to delete unnecessary words where possible.<br>
