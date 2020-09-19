@@ -11,5 +11,3 @@ The Wiki is being defined in a 3 step process
 ### 2. [Learning Design Team Workflow](/learning-design-team-workflow)
 
 ### 3. [Approval Guidlines](/approval-guidelines)
-
-### 4. placeholder
