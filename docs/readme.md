@@ -6,8 +6,9 @@ This Wiki will provide the necessary information to better understand the proces
 
 The Wiki is being defined in a 3 step process
 
-### 1. [Content Guidlines](/byte-authoring)
+### 1. [Approval Guidlines](/approval-guidelines)
 
-### 2. [Learning Design Team Workflow](/learning-design-team-workflow)
+### 2. [Content Guidlines](/byte-authoring)
 
-### 3. [Approval Guidlines](/approval-guidelines)
+### 3. [Learning Design Team Workflow](/learning-design-team-workflow)
+
