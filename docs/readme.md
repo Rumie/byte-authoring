@@ -11,4 +11,3 @@ The Wiki is being defined in a 3 step process
 ### 2. [Content Guidlines](/byte-authoring)
 
 ### 3. [Learning Design Team Workflow](/learning-design-team-workflow)
-

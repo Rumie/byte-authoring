@@ -8,7 +8,8 @@ module.exports = {
     },
   },
   themeConfig: {
-    logo: "",
+    lastUpdated: 'Last Updated',
+    logo: '',
     sidebar: [
       {
         title: "Main",
