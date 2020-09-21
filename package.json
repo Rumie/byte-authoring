@@ -1,0 +1,23 @@
+{
+  "name": "byte-authoring",
+  "version": "1.0.0",
+  "description": "Rumie is offering a wiki based intranet for Byte Authoring. Bytes are microlearning experiences, less than 10 minutes long and delivering one learning objective at a time.",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rumie/byte-authoring.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rumie/byte-authoring/issues"
+  },
+  "homepage": "https://github.com/Rumie/byte-authoring#readme",
+  "devDependencies": {
+    "vuepress": "^1.5.4"
+  }
+}
