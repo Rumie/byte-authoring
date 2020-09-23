@@ -8,6 +8,6 @@ Byte Authoring is being defined in a 3-step process
 
 ### [1. Approval Guidelines](/approval-guidelines)
 
-### [2. Content Guidlines](/byte-authoring/#content-guidelines)
+### [2. Content Guidelines](/byte-authoring/#content-guidelines)
 
 ### [3. Learning Design Team Workflow](/learning-design-team-workflow)
