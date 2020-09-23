@@ -15,12 +15,18 @@ module.exports = {
         title: "Main",
         collapsable: false,
         children: [
-          ["/approval-guidelines/", "Approval Guidelines"],
-          ["/byte-authoring/", "Byte Authoring Essentials"],
-          ["/learning-design-team-workflow/", "Design Team Workflow"],
+          ["/approval-guidelines/", "1. Approval Guidelines"],
+          ["/byte-authoring/", "2. Byte Authoring Essentials"],
+          ["/learning-design-team-workflow/", "3. Design Team Workflow"],
         ],
       },
     ],
+
+    algolia: {
+      apiKey: '<API_KEY>',
+      indexName: '<INDEX_NAME>'
+    },
+
     nav: [
       { text: 'Guide', link: '/guide/', target: "_blank" },
       { text: 'Product-Specification-Sheet', link: '/productSpecs/', target: "_blank" },
