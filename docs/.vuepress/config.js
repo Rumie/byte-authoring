@@ -4,7 +4,7 @@ module.exports = {
       lang: "en-US",
       title: "Byte Authoring",
       description:
-        "Rumie is offering a wiki based intranet for Byte Authoring.",
+        "",
     },
   },
   themeConfig: {
@@ -22,6 +22,8 @@ module.exports = {
       },
     ],
     nav: [
+      { text: 'Guide', link: '/guide/', target: "_blank" },
+      { text: 'Product-Specification-Sheet', link: '/productSpecs/', target: "_blank" },
       { text: "Rumie", link: "https://rumie.org", target: "_blank" },
       {
         text: "Rumie-Build",
