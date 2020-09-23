@@ -4,15 +4,15 @@ Created by Manav Chugh on Sep 17, 2020 The Rumie Initiative
 
 There are 5 key stages of the Byte Building process.
 
-# 1. Familiarize Yourself With Byte Basics
+## 1. Familiarize Yourself With Byte Basics
 
-## About Bytes
+### About Bytes
 
 - Bytes are **microlearning experiences**, less than 10 minutes long
 - Each Byte has one learning objective
 - Bytes focus on **applying the concept** in a real-world context
 
-## Content Guidelines
+### Content Guidelines
 
 We create Bytes primarily on soft life and career skills that orient on the action. **Soft skills** are non-technical abilities that relate to how we work and interact with others. _For example: teamwork, communication, and adaptability._
 
@@ -24,16 +24,16 @@ We create Bytes primarily on soft life and career skills that orient on the acti
 | **Outcomes**                                                                          |                                                                                             |                                                                              |                                                                                |                                                                                 |                                                                                              |                                                                                    |
 | Become more prepared to engage in modern workplaces (regardless of specific vocation) | Become a self-directed learner. Take better advantage of learning opportunities everywhere. | Develop an entrepreneur's mindset and build foundational business knowledge. | Become more agile. Adapt to changing circumstances at work or in the world.    | Build foundational knowledge and skills to act safely and appropriately online. | \*_Requested By NGO partner organizations_.Combat misinformation and build healthier habits. | \*_Suggested by a volunteer group_.Spark civic awareness, engagement and activism. |
 
-# 2. Author a Learning Objective (LO)
+## 2. Author a Learning Objective (LO)
 
-_Training Session_[<u>recording</u>](https://www.youtube.com/watch?v=6gssAXr12iY) ,[<u>deck</u>](https://docs.google.com/presentation/d/1WcLQcp_Y0sc4J20KfFBYbePwLSNWM3O5NIMgsmmJoJQ/edit?usp=sharing) , and [<u>activity</u>](https://mm.tt/1619674632?t=Y8KOz8cd0L).
+_Training Session_ [<u>recording</u>](https://www.youtube.com/watch?v=6gssAXr12iY) ,[<u>deck</u>](https://docs.google.com/presentation/d/1WcLQcp_Y0sc4J20KfFBYbePwLSNWM3O5NIMgsmmJoJQ/edit?usp=sharing) , and [<u>activity</u>](https://mm.tt/1619674632?t=Y8KOz8cd0L).
 
-### LO Purpose
+#### LO Purpose
 
 - LOs help _learners_ self identify appropriate content. It helps answer the question: will this be helpful to me? Is this the outcome I'm looking for?
 - LOs help _Byte authors_ maintain focus, ensuring that all content is directly contributing to or 'laddering up' to the learning objective.
 
-### LOs vs SMART Goals
+#### LOs vs SMART Goals
 
 LOs and SMART Goals both:
 
@@ -47,7 +47,7 @@ But, in contrast to SMART Goals, Byte LOs:
 - Have only short term goals (what is attainable in 10 minutes or less?)
 - Must only be measurable in theory (because we are not there to assess learner performance in person)
 
-### Authoring Effective LOs
+#### Authoring Effective LOs
 
 1. Confirm: _does it align with Rumie's_ [<u>content guidelines</u>]_?_
 2. _Confirm: does it add something new to the Byte library?_
@@ -75,11 +75,11 @@ _There is one Byte that overviews "SMART Goals," and also 5 individual Bytes tha
 
 - Just like the content in Bytes themselves, we want to learn objectives to be clear and direct. Ask yourself: Would an 8th grader understand it?
 
-# 3. Build Your Byte in Rumie-Build
+## 3. Build Your Byte in Rumie-Build
 
-## Apply Effective Learning Strategies
+### Apply Effective Learning Strategies
 
-### Hook the Learner
+#### Hook the Learner
 
 - Use the Background Info section to pull learners in and pique their interest.
 - Ask a provocative question, use a scenario, or share an impactful statistic.
@@ -94,7 +94,7 @@ Sample Learning Objective: Contrast customer- and competitor-centric organizatio
   - Amazon didn't kill some retailers, poor customer service did.
   - Uber didn't kill the taxi industry, limited access and fare control did."<br>
 
-### Examples, examples, examples!
+#### Examples, examples, examples!
 
 - Bytes are about tangible application, not theory.
 - If you share an idea or concept, back it up with how it actually plays out in real life.
@@ -110,7 +110,7 @@ Sample Learning Objective: Use creative outlets to relieve stress.
 
 - Define 'creative outlets' then give some examples like: drawing, writing, or cooking.
 
-### Audio Clips
+#### Audio Clips
 
 - Custom audio is a great way to demonstrate the specific concept you're teaching. It's a lot easier than hunting for an ultra-specific video on Youtube that may not exist.
 - For maximum impact, pair audio with a multiple-choice question that prompts the learner to apply their learning.
@@ -122,7 +122,7 @@ Sample Learning Objective: deliver feedback constructively.
 - Use text to introduce a scenario, like a boss giving feedback to an employee during a private meeting. Record an audio clip of the boss giving feedback imperfectly. Use a multiple-choice question to ask what opportunity the boss had to improve their feedback delivery.
 - Use text to introduce a scenario of an individual who wants to give feedback to their coworker. Record two audio clips for how they could deliver the feedback. Use a multiple-choice question to ask which option would be a more constructive way to deliver feedback.
 
-### Multiple Choice Questions
+#### Multiple Choice Questions
 
 - The best multiple-choice questions nudge learners to make an active decision and apply their learning, not just recall information.
   - One way to do this is to present a brief scenario or example that has not already been shared. In the example, have the learner identify the next course of action, or how a situation could be handled better, etc.
@@ -139,7 +139,7 @@ Sample Learning Objective: Introduce yourself at a networking event.
 
 - Introduce a scenario using text. E.g., the learner is at a networking event and has spotted someone they want to speak to. Ask "What would be a good icebreaker to say to this individual?" Make the variations of the response of what someone could say, demonstrating the points you've taught in the Byte, but _not_ explicitly replicating the above examples.
 
-### Strong Takeaway Prompts
+#### Strong Takeaway Prompts
 
 In the final "summary" step of your Byte, give the learner a prompt for something action-oriented they can do to apply their learning. This gives them the opportunity to extend their learning. You can think of it almost like you're assigning some light homework.
 
@@ -150,7 +150,7 @@ Sample Learning Objective: Take a collaborative approach to brainstorming.
   Sample Learning Objective: Create a visually attractive resume.
 - "Over the next few days, look online to find at least 3 examples of resumes that look clean and professional. Use these samples as models to begin building your own polished resume."
 
-## Apply Best Practices for Byte Writing Style
+### Apply Best Practices for Byte Writing Style
 
 Terminology
 
@@ -162,7 +162,7 @@ Terminology
   - Reference a 'coworker' but don't make a scenario explicitly in an office environment
   - Be cautious of mentioning something that might be culturally taboo (i.e. protesting, adultery, etc.)
 
-### Simplify Writing
+#### Simplify Writing
 
 _Training Session_ [<u>recording</u>](https://zoom.us/rec/play/drkRsld_xtULFHur73td79zZPHW-6CU6BWt-Za3gqi59BnfAt6XckJONCvT-9ncJDVky92DZzi3M80nt.MrvPW82Hx2TG6J1O?continueMode=true&_x_zm_rtaid=53ELe_RUSB-luDDIKyqcog.1600455376325.9e48d7ebb1cb0d60b8c6a28838e7fba0&_x_zm_rhtaid=524) _,_ [<u>deck</u>](https://docs.google.com/presentation/d/1NCcWBYprCFvQdwUCd0F1AF-dIfNT4rJ-Aoq7wbfAivc/edit?fbclid=IwAR1wO3gzEp2lQUxt0T-GM7UQTMrL4GDPSlEA8m9oyJgror8tUoA5vB2REZo) _, and_ [<u>activity</u>](https://docs.google.com/.../1hqWzoJK5nRdm3.../edit...) _._
 
@@ -187,7 +187,7 @@ _Example in Action:_ <br>
 Don't say: "Don't leave your shoes on when you enter the house." <br>
 Say: "Take your shoes off when you enter the house." <br>
 
-# 4. Engage in the Peer Review Process
+## 4. Engage in the Peer Review Process
 
 Rumie encourages all Byte authors to get peer review feedback from at least 2 other people.
 
@@ -202,15 +202,15 @@ _Consider these points as you complete a peer review of a Byte._
 
 After gathering peer review feedback, Byte authors should finesse and finalize their Byte based on these insights.
 
-# 5. Byte Approval Process
+## 5. Byte Approval Process
 
 After finalizing the Byte content, Byte authors click "Publish" In Rumie-Build and fill out the associated fields.
 
-## Acknowledgement
+### Acknowledgement
 
 Rumie is a learning technology nonprofit organization, located in Toronto, Canada, that facilitates the authoring and free dissemination of microlearning courses called Bytes. Rumie provides the tools and a platform for volunteers to build Bytes covering a broad range of topics, based on their skills and expertise. We acknowledge the inherent cultural, linguistic, and geographic biases present in our own organization and core author community. As a small organization, we try our best to guide contributions that are culturally sensitive and aware.
 
-## Standards
+### Standards
 
 Rumie will not post authored content that:
 
@@ -225,7 +225,7 @@ Rumie will not post authored content that:
 9. may not publish or post other people's private information (such as home phone number and address) without their express authorization and permission.
 10. may not violate others' intellectual property rights, including copyright and trademark.
 
-## Proofing
+### Proofing
 
 Before publishing any Bytes publicly, Rumie reviews Bytes for the following elements:
 
@@ -235,13 +235,13 @@ Before publishing any Bytes publicly, Rumie reviews Bytes for the following elem
 - Appropriate categorization under related category/topic/theme
 - Appropriate timing selection (3/6/9 min)
 
-## Tagging
+### Tagging
 
 Tags are small keywords that you attach to your Byte. Tags act like labels to tell users what the content is about.
 
 If Rumie-Learn is like a gigantic book, tags are what make up the **index**. They let learners browse and find the content that is most relevant to them, without reading everything cover to cover.
 
-### Tags vs. Categories
+#### Tags vs. Categories
 
 If tags are like the index, categories are like the chapters listed in the table of contents at the start. They're the big buckets that Rumie-Learn is made of.
 
@@ -252,7 +252,7 @@ In general, categories are longer than tags (a few words rather than just one or
 - Your categories are like your table of contents, and your tags are like your index.
 - Categories are hierarchical and required. Tags are not.
 
-### Tagging Areas
+#### Tagging Areas
 
 #### UN Sustainable Development Goals (SDGs)
 
@@ -260,21 +260,21 @@ Byte content relates or contributes to one/more SDGs:
 
 - sdg1nopoverty
 - sdg2zerohunger
-- Sdg3goodhealth
+- sdg3goodhealth
 - sdg4qualityeducation
 - sdg5genderequality
-- Sdg6cleanwater
+- sdg6cleanwater
 - sdg7cleanenergy
 - sdg8decentwork
 - sdg9industry
 - sdg10reducedinequality
 - sdg11sustainablecities
 - sdg12responsibleconsumption
-- Sdg13climateaction
+- sdg13climateaction
 - sdg14lifebelowwater
-- Sdg15lifeonland
+- sdg15lifeonland
 - sdg16peaceandjustice
-- Sdg17partnership<br>
+- sdg17partnership<br>
 
 #### Geotagging
 

@@ -1,13 +1,16 @@
-# Byte-Guide
-
-Rumie is offering a wiki based intranet for Byte Authoring. Bytes are microlearning experiences, less than 10 minutes long and delivering one learning objective at a time.
-
-This Wiki will provide the necessary information to better understand the process of creation of Bytes, various learning objectives and approval guidelines necessary to deploy the Bytes for learners.
-
-The Wiki is being defined in a 3 step process
-
-### 1. [Approval Guidlines](/approval-guidelines)
-
-### 2. [Content Guidlines](/byte-authoring)
-
-### 3. [Learning Design Team Workflow](/learning-design-team-workflow)
+---
+home: true
+heroImage: /rumieLogo.png
+heroText: Byte Authoring 
+tagline: Rumie is dedicated to making learning as accessible, interactive, and easy as social media, so everyone can learn anywhere. This is the end-to-end guide to Rumie’s learning ecosystem. 
+actionText: Get Started →
+actionLink: /guide/
+features:
+- title: Byte Authoring 
+  details: Rumie systems and strategies for building effective Bytes.
+- title: Byte Approval
+  details: Our approach to vetting, organizing, and sharing Bytes.
+- title: Product Specs
+  details: The technical details of our custom learning platforms.
+footer: The Rumie Initiative © 2020
+---

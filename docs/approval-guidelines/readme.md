@@ -54,21 +54,21 @@ Byte content relates or contributes to one/more SDGs:
 
 - sdg1nopoverty
 - sdg2zerohunger
-- Sdg3goodhealth
+- sdg3goodhealth
 - sdg4qualityeducation
 - sdg5genderequality
-- Sdg6cleanwater
+- sdg6cleanwater
 - sdg7cleanenergy
 - sdg8decentwork
 - sdg9industry
 - sdg10reducedinequality
 - sdg11sustainablecities
 - sdg12responsibleconsumption
-- Sdg13climateaction
+- sdg13climateaction
 - sdg14lifebelowwater
-- Sdg15lifeonland
+- sdg15lifeonland
 - sdg16peaceandjustice
-- Sdg17partnership<br>
+- sdg17partnership<br>
 
 #### Geotagging
 
