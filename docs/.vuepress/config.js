@@ -28,7 +28,7 @@ module.exports = {
     },
 
     nav: [
-      { text: 'Home', link: '/'},
+      { text: 'Guide', link: '/guide/'},
       { text: 'Product-Specification-Sheet', link: '/productSpecs/', target: "_blank" },
       { text: "Rumie", link: "https://rumie.org", target: "_blank" },
       {
