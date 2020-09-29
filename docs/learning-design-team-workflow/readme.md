@@ -18,8 +18,7 @@ _Slack Workspace Introductory_ [<u>video</u>](https://youtu.be/zAQv86_u4Ww)
 
 The Learning Design team follows a 14-day sprint structure, outlined below.
 
-! [Sprint Image]
-(Sprint-Structure.png)
+![](Sprint-Structure.png)
 
 * Sprint content areas will be communicated via Slack prior to the start of each sprint.
 * The sprint is a guide but not hard deadlines. If you are delayed or need more time, communicate this with your squad lead via slack.
