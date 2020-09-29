@@ -18,11 +18,13 @@ _Slack Workspace Introductory_ [<u>video</u>](https://youtu.be/zAQv86_u4Ww)
 
 The Learning Design team follows a 14-day sprint structure, outlined below.
 
+(Sprint-Structure.png)
+
 * Sprint content areas will be communicated via Slack prior to the start of each sprint.
 * The sprint is a guide but not hard deadlines. If you are delayed or need more time, communicate this with your squad lead via slack.
 Occasionally, we will take a week between sprints as a "Catch-Up and Learning Objectives" week.
 * This week is intended as an opportunity for all team members to tie up any outstanding loose ends, author, and review learning objectives on the topic of focus. <br> 
-![](rumieSprint.png)
+
 
 
 ## Rumie-Build
