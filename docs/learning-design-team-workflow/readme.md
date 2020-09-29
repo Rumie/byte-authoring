@@ -37,7 +37,7 @@ _Rumie-Build Introductory_ [<u>video</u>](https://youtu.be/SNbTKMaBSkQ)
 
 ## ClickUp
 
-_ClickUp Introductory_ [<u>video</u>](https://youtu.be/i7gBv7n2nr8)
+_ClickUp Introductory_ [<u>video</u>](https://youtu.be/dEhx9DsGRu8)
 
 * Byte status' are tracked in ClickUp.
 * Upon completion of onboarding, Learning Designers will receive an invitation to join ClickUp. 
