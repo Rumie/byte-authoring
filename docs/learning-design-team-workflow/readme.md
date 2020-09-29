@@ -15,7 +15,8 @@ The Learning Design team follows a 14-day sprint structure, outlined below.
 * The sprint is a guide but not hard deadlines. If you are delayed or need more time, communicate this with your squad lead via slack.
 Occasionally, we will take a week between sprints as a "Catch-Up and Learning Objectives" week.
 * This week is intended as an opportunity for all team members to tie up any outstanding loose ends, author, and review learning objectives on the topic of focus. <br> 
-![](rumieSprint.png)
+
+![Sprint Image](./sprintStructure.png)
 
 
 ## Rumie-Build
