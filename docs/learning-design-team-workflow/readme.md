@@ -9,7 +9,7 @@
 
 ## Slack
 
-_Slack Workspace Introductory Video_ [<u>video</u>](https://youtu.be/zAQv86_u4Ww)
+_Slack Workspace Introductory_ [<u>video</u>](https://youtu.be/zAQv86_u4Ww)
 
 * The Learning Design Team uses Slack as our communications hub. 
 * There are channels for the full team and a private channel for your squad.
@@ -27,7 +27,7 @@ Occasionally, we will take a week between sprints as a "Catch-Up and Learning Ob
 
 ## Rumie-Build
 
-_Rumie-Build Introductory Video_ [<u>video</u>](https://youtu.be/SNbTKMaBSkQ)
+_Rumie-Build Introductory_ [<u>video</u>](https://youtu.be/SNbTKMaBSkQ)
 
 * Bytes are built-in Rumie-Build.
 * Upon completion of onboarding, Learning Designers will be emailed a link to access Rumie-Build.
@@ -45,25 +45,25 @@ _ClickUp Introductory_ [<u>video</u>](https://www.youtube.com/watch?v=DRCy2WSjTd
 
 ### Statuses
 
-_ClickUp Process Video_ [<u>video</u>](https://youtu.be/ogNqbqZ7FDE)
+_ClickUp Process_ [<u>video</u>](https://youtu.be/ogNqbqZ7FDE)
 
 As you move through the sprint process (authoring, peer review, and revision,) you will update the status of your Byte in ClickUp. The statuses are:
 
 |  |  |
 | --- | --- |
-| Objective Idea | * This is your objective 'brainstorm.' It may not be fully formed yet. <br> * Change status when you are satisfied with the objective and have checked it against the [<u>guidelines.</u>](https://docs.google.com/document/d/1S9ceZKlI7ODSk-SCnVW022ErcSoJWgUdwVGrKNhjWSo/edit#heading=h.e6bgk9la8ngz) <br> |
-| The objective for Peer Review | * This is an objective that is ready for the second set of eyes. <br> * Reviewers, consider the objective in the context of the [<u>guidelines</u>](https://docs.google.com/document/d/1S9ceZKlI7ODSk-SCnVW022ErcSoJWgUdwVGrKNhjWSo/edit#heading=h.e6bgk9la8ngz). <br> * Make changes directly to the LO, or @tag the author with comments. <br> * Once the reviewer 'blesses' the objective, the reviewer changes the status. <br> |
+| Objective Idea | * This is your objective 'brainstorm.' It may not be fully formed yet. <br> * Change status when you are satisfied with the objective and have checked it against the guidelines. <br> |
+| The objective for Peer Review | * This is an objective that is ready for the second set of eyes. <br> * Reviewers, consider the objective in the context of the guidelines. <br> * Make changes directly to the LO, or @tag the author with comments. <br> * Once the reviewer 'blesses' the objective, the reviewer changes the status. <br> |
 | Ready to Build | * This is an objective that has been peer-reviewed and is ready to be built into a Byte. <br> * Ready to Build objectives are considered 'up for grabs' until/unless someone has claimed it by making themself the 'assignee.' <br> * Once you claim an objective (by making yourself the "assignee" at the start of a sprint), change the status. <br> |
 | Build-in Progress | * This indicates that you are currently working on your first draft of the Byte. <br> * Add the Byte URL from Rumie-Build. <br> * Change the status when you have completed your first draft of the Byte (at the end of week 1 of the sprint). <br>|
-| Byte for Peer Review | * This indicates that the Byte draft is complete and ready for peer review. <br> * Peer reviewers may review in any order using the [<u>Peer Review Checklist</u>](https://docs.google.com/document/d/1S9ceZKlI7ODSk-SCnVW022ErcSoJWgUdwVGrKNhjWSo/edit#heading=h.381elfqk3uxf). <br> * Peer reviewers make comments either by commenting on the task within ClickUp or by leaving comments directly in the Byte using the comments feature. <br> * After giving comments, the first person to peer review changes the status. |
-| Byte for Peer Review 2 | * This indicates that the Byte draft has received one set of peer review comments. <br> * Peer reviewers may review in any order using the [<u>Peer Review Checklist</u>](https://docs.google.com/document/d/1S9ceZKlI7ODSk-SCnVW022ErcSoJWgUdwVGrKNhjWSo/edit#heading=h.381elfqk3uxf). <br> * Peer reviewers make comments either by commenting on the task within ClickUp or by leaving comments directly in the Byte using the comments feature. <br> * After giving comments, the second person to peer review changes the status. <br> |
+| Byte for Peer Review | * This indicates that the Byte draft is complete and ready for peer review. <br> * Peer reviewers may review in any order using the Peer Review Checklist. <br> * Peer reviewers make comments either by commenting on the task within ClickUp or by leaving comments directly in the Byte using the comments feature. <br> * After giving comments, the first person to peer review changes the status. |
+| Byte for Peer Review 2 | * This indicates that the Byte draft has received one set of peer review comments. <br> * Peer reviewers may review in any order using the Peer Review Checklist. <br> * Peer reviewers make comments either by commenting on the task within ClickUp or by leaving comments directly in the Byte using the comments feature. <br> * After giving comments, the second person to peer review changes the status. <br> |
 | Revisions in Progress | * This indicates that you are incorporating peer review feedback to finalize your Byte. <br> * After finalizing, click "Publish" in Rumie Build. - Select a cover photo - Retitle the Byte (using Title Case) - Categorize according to category/topic/theme - Select appropriate timing <br> * Change the Byte status after publishing. <br> |
-| Byte for Rumie Review | * This indicates that the Byte is ready for Rumie review/approval. <br> * Rumie will review the Byte in correspondence with the [<u>Approval Guidelines.</u>](https://docs.google.com/document/d/1S9ceZKlI7ODSk-SCnVW022ErcSoJWgUdwVGrKNhjWSo/edit#heading=h.giyd5nuwn271) <br> * Rumie will change the status after approving the Byte. <br> |
+| Byte for Rumie Review | * This indicates that the Byte is ready for Rumie review/approval. <br> * Rumie will review the Byte in correspondence with the Approval Guidelines. <br> * Rumie will change the status after approving the Byte. <br> |
 | Byte Published | * This indicates that the Byte is live on Rumie-Learn. <br> |
 
 ### ClickUp Dashboard
 
-_Individual Dashboard Demo Video_ [<u>video</u>](https://youtu.be/qSk8ail4b9M)
+_Individual Dashboard Demo_ [<u>video</u>](https://youtu.be/qSk8ail4b9M)
 
 * Access your individual dashboard by clicking the icon on the left-hand side (below the bell icon).
 * The individual dashboard shows the Bytes you are authoring and assigned for peer review.<br>
