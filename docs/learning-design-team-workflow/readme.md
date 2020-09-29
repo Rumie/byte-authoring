@@ -24,6 +24,8 @@ Occasionally, we will take a week between sprints as a "Catch-Up and Learning Ob
 * This week is intended as an opportunity for all team members to tie up any outstanding loose ends, author, and review learning objectives on the topic of focus. <br> 
 
 
+![Sprint Image](./sprintStructure.png)
+
 
 ## Rumie-Build
 
