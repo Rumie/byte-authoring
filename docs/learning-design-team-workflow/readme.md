@@ -7,6 +7,13 @@
 * Squad leads are responsible for assigning peer reviewers within the squad each sprint.
 * Squads will be shuffled every few months.
 
+## Slack
+
+_Slack Workspace Introductory Video_ [<u>video</u>](https://youtu.be/zAQv86_u4Ww)
+
+* The Learning Design Team uses Slack as our communications hub. 
+* There are channels for the full team and a private channel for your squad.
+
 ## Sprints
 
 The Learning Design team follows a 14-day sprint structure, outlined below.
@@ -19,6 +26,8 @@ Occasionally, we will take a week between sprints as a "Catch-Up and Learning Ob
 
 
 ## Rumie-Build
+
+_Rumie-Build Introductory Video_ [<u>video</u>](https://youtu.be/SNbTKMaBSkQ)
 
 * Bytes are built-in Rumie-Build.
 * Upon completion of onboarding, Learning Designers will be emailed a link to access Rumie-Build.
@@ -36,7 +45,7 @@ _ClickUp Introductory_ [<u>video</u>](https://www.youtube.com/watch?v=DRCy2WSjTd
 
 ### Statuses
 
-_ClickUp Process_ [<u>video</u>](https://youtu.be/2q5Rx1wPpuY)
+_ClickUp Process Video_ [<u>video</u>](https://youtu.be/ogNqbqZ7FDE)
 
 As you move through the sprint process (authoring, peer review, and revision,) you will update the status of your Byte in ClickUp. The statuses are:
 
@@ -52,13 +61,13 @@ As you move through the sprint process (authoring, peer review, and revision,) y
 | Byte for Rumie Review | * This indicates that the Byte is ready for Rumie review/approval. <br> * Rumie will review the Byte in correspondence with the [<u>Approval Guidelines.</u>](https://docs.google.com/document/d/1S9ceZKlI7ODSk-SCnVW022ErcSoJWgUdwVGrKNhjWSo/edit#heading=h.giyd5nuwn271) <br> * Rumie will change the status after approving the Byte. <br> |
 | Byte Published | * This indicates that the Byte is live on Rumie-Learn. <br> |
 
-### Dashboards
+### ClickUp Dashboard
 
-* Access your dashboards by clicking the icon on the left-hand side (below the bell icon).
-* You will have access to two dashboards: individual and squad. 
-  - The individual dashboard shows Bytes currently assigned to you.<br>
+_Individual Dashboard Demo Video_ [<u>video</u>](https://youtu.be/qSk8ail4b9M)
+
+* Access your individual dashboard by clicking the icon on the left-hand side (below the bell icon).
+* The individual dashboard shows the Bytes you are authoring and assigned for peer review.<br>
 It also has:
     + Events calendar
     + Links to additional resources
     + Total team metrics (# of Bytes at each status).
-  - The squad dashboard shows Bytes currently assigned to your team.
