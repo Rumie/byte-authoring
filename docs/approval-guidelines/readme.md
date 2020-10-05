@@ -78,13 +78,21 @@ Content is only relevant or appropriate in certain regions. E.g., northamerica, 
 
 Is the learner uncovering a problem or a solution?
 
-- \*_problem aware: the learner is seeking to understand a challenge or its causes_
+- \*_problem aware: the learner is seeking to understand personal leadership_
 
-E.g., [<u>Identifying Bullying in Different Settings</u>](https://learn.rumie.org/jR/bytes/identifying-bullying-in-different-settings/view)
+E.g., [<u>#build-a-growth-mindset</u>](https://learn.rumie.org/jR/bytes/reach-your-potential-with-stretch-goals/view)
 
-- \*_solution aware: the learner is exploring possible solutions to address the challenge_
+- \*_solution aware: the learner is exploring possible solutions to address behaviral interviews_
 
-E.g., [<u>Responding to Bullying</u>](https://learn.rumie.org/jR/bytes/responding-to-bullying/view)
+E.g., [<u>#get-a-better-job</u>](https://learn.rumie.org/jR/bytes/get-the-job-picking-a-professional-profile-picture/view)
+
+- \*_problem aware: the learner is seeking to understand business valuation_
+
+E.g., [<u>#become-an-entrepreneur</u>](https://learn.rumie.org/jR/bytes/calculate-return-on-investment-roi/view)
+
+ \*_solution aware: the learner is exploring ways to lead a healthier lifestyle_
+
+E.g., [<u>#live-a-healthier-life</u>](https://learn.rumie.org/jR/bytes/eat-healthy-balancing-the-food-groups/view)
 
 #### Trends
 
@@ -92,11 +100,12 @@ Focus on trends and fluid topics. Trends are topical (may be highly relevant now
 
 Examples might include:
 
-- covid19
-- remote work
-- election
-- virtual reality
-- fake news
-- influencer
+- #covid19
+- #space-force
+- #remote-work
+- #fake-news
+- #canada
+- #usa
+- #afganistan 
 
-Document generated on Sep 18, 2020 02:40
+Document generated on Oct 05, 2020 02:40
