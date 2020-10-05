@@ -90,7 +90,7 @@ E.g., [<u>#get-a-better-job</u>](https://learn.rumie.org/jR/bytes/get-the-job-pi
 
 E.g., [<u>#become-an-entrepreneur</u>](https://learn.rumie.org/jR/bytes/calculate-return-on-investment-roi/view)
 
- \*_solution aware: the learner is exploring ways to lead a healthier lifestyle_
+- \*_solution aware: the learner is exploring ways to lead a healthier lifestyle_
 
 E.g., [<u>#live-a-healthier-life</u>](https://learn.rumie.org/jR/bytes/eat-healthy-balancing-the-food-groups/view)
 
