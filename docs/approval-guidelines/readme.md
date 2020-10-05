@@ -52,27 +52,27 @@ In general, categories are longer than tags (a few words rather than just one or
 
 Byte content relates or contributes to one/more SDGs:
 
-- sdg1nopoverty
-- sdg2zerohunger
-- sdg3goodhealth
-- sdg4qualityeducation
-- sdg5genderequality
-- sdg6cleanwater
-- sdg7cleanenergy
-- sdg8decentwork
-- sdg9industry
-- sdg10reducedinequality
-- sdg11sustainablecities
-- sdg12responsibleconsumption
-- sdg13climateaction
-- sdg14lifebelowwater
-- sdg15lifeonland
-- sdg16peaceandjustice
-- sdg17partnership<br>
+- #sdg1nopoverty
+- #sdg2zerohunger
+- #sdg3goodhealth
+- #sdg4qualityeducation
+- #sdg5genderequality
+- #sdg6cleanwater
+- #sdg7cleanenergy
+- #sdg8decentwork
+- #sdg9industry
+- #sdg10reducedinequality
+- #sdg11sustainablecities
+- #sdg12responsibleconsumption
+- #sdg13climateaction
+- #sdg14lifebelowwater
+- #sdg15lifeonland
+- #sdg16peaceandjustice
+- #sdg17partnership<br>
 
 #### Geotagging
 
-Content is only relevant or appropriate in certain regions. E.g., northamerica, Afghanistan, USA, Canada, Toronto, new york city, Barcelona etc.
+Content is only relevant or appropriate in certain regions. E.g., #north-america, #afghanistan, #usa, #canada, #toronto, #new-york-city, #barcelona etc.
 
 #### Learner Intent
 
