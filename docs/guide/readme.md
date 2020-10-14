@@ -6,8 +6,8 @@ This documentation will provide the necessary information to better understand t
 
 Byte Authoring is being defined in a 3-step process:
 
-### [1. Approval Guidelines](/approval-guidelines)
+### [1. Byte Authoring Essentials](/byte-authoring/#content-guidelines)
 
-### [2. Content Guidelines](/byte-authoring/#content-guidelines)
+### [2. Learning Design Team Workflow](/learning-design-team-workflow)
 
-### [3. Learning Design Team Workflow](/learning-design-team-workflow)
+### [3. Approval Guidelines](/approval-guidelines)

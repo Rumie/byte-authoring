@@ -15,9 +15,9 @@ module.exports = {
         title: "Main",
         collapsable: false,
         children: [
-          ["/approval-guidelines/", "1. Approval Guidelines"],
-          ["/byte-authoring/", "2. Byte Authoring Essentials"],
-          ["/learning-design-team-workflow/", "3. Design Team Workflow"],
+          ["/byte-authoring/", "1. Byte Authoring Essentials"],
+          ["/learning-design-team-workflow/", "2. Learning Design Team Workflow"],
+          ["/approval-guidelines/", "3. Approval Guidelines"],
         ],
       },
     ],
