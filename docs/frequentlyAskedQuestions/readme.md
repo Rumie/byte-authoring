@@ -1,4 +1,4 @@
-# Frequentyly Asked Questions (FAQ)
+# Frequently Asked Questions (FAQ)
 
 ## Rumie-Build FAQ
 
