@@ -36,7 +36,7 @@
 
     ![](./buildFaq8.png)
 
-### 9. How can I access "my" in progress Bytes?
+### 9. How can I access my in progress Bytes?
   - _Select your initials in the top right corner of Rumie-Build. Then select "My Bytes."_
 
     ![](./buildFaq9.png)
