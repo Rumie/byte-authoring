@@ -17,7 +17,8 @@ module.exports = {
         children: [
           ["/byte-authoring/", "1. Byte Authoring Essentials"],
           ["/learning-design-team-workflow/", "2. Learning Design Team Workflow"],
-          ["/approval-guidelines/", "3. Approval Guidelines"],
+          ["/approval-guidelines/", "3. Approval Guidelines"], 
+          ["/frequentlyAskedQuestions/", "Frequentyly Asked Questions (FAQ)"],
         ],
       },
     ],
