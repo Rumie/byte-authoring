@@ -8,7 +8,7 @@
   - _Return to_ [_build.rumie.org_](http://build.rumie.org)
 
 ### 2. Can I access Rumie-Build on my phone?
-  - _While Rumie-Learn is optimized for the mobile experience, the mobile experience of Rumie-Build is unstable and we recommend using a desktop or laptop computer to build your Byte._
+  - _While Rumie-Learn is entirely optimized for the mobile experience, the authoring process on Rumie-Build is too complex to perform on a mobile device and we recommend using a desktop or laptop computer to build your Byte._
 
 ### 3. How do I delete a quiz question?
   - _Select the three dots in the top right corner of the content step. Select "Delete Quiz."_ <br/>
