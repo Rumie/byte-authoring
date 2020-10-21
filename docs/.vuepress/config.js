@@ -31,17 +31,13 @@ module.exports = {
     nav: [
       { text: 'Guide', link: '/guide/'},
       { text: 'Product-Specification-Sheet', link: '/productSpecs/' },
-      { text: "Rumie", link: "https://rumie.org", target: "_blank" },
+      { text: "Rumie", link: "https://lear.rumie.org", target: "_blank" },
       {
         text: "Rumie-Build",
         link: "https://build.rumie.org",
         target: "_blank",
       },
-      {
-        text: "Rumie-Learn",
-        link: "https://learn.rumie.org",
-        target: "_blank",
-      },
+      { text: "Byte Building Checklist", link: "http://r.rumie.org/bytebuilding/rumie-byte-building-checklist.pdf", target: "_blank"},
     ],
   },
 };
