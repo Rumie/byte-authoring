@@ -189,6 +189,8 @@ Say: "Take your shoes off when you enter the house." <br>
 
 ## 4. Engage in the Peer Review Process
 
+_Training Session_ [<u>recording</u>](https://youtu.be/p4h4ibUFhVo)_, and_ [<u>deck</u>](https://docs.google.com/presentation/d/1Bc2_E52BP5NtBx9TVBe9XYpJIcGG_rSsqB-CfFmlz7A/edit?usp=sharing)
+
 Rumie encourages all Byte authors to get peer review feedback from at least 2 other people.
 
 _Consider these points as you complete a peer review of a Byte._
