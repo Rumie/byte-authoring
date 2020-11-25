@@ -53,7 +53,6 @@ As you move through the sprint process (authoring, peer review, and revision,) y
 
 |  |  |
 | --- | --- |
-| Objective Idea | * This is your objective 'brainstorm.' It may not be fully formed yet. <br> * Change status when you are satisfied with the objective and have checked it against the guidelines. <br> |
 | The objective for Peer Review | * This is an objective that is ready for the second set of eyes. <br> * Reviewers, consider the objective in the context of the guidelines. <br> * Make changes directly to the LO, or @tag the author with comments. <br> * Once the reviewer 'blesses' the objective, the reviewer changes the status. <br> |
 | Ready to Build | * This is an objective that has been peer-reviewed and is ready to be built into a Byte. <br> * Ready to Build objectives are considered 'up for grabs' until/unless someone has claimed it by making themself the 'assignee.' <br> * Once you claim an objective (by making yourself the "assignee" at the start of a sprint), change the status. <br> |
 | Build-in Progress | * This indicates that you are currently working on your first draft of the Byte. <br> * Add the Byte URL from Rumie-Build. <br> * Change the status when you have completed your first draft of the Byte (at the end of week 1 of the sprint). <br>|
