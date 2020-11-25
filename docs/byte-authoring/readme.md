@@ -2,7 +2,7 @@
 
 Created by Manav Chugh on Sep 17, 2020 The Rumie Initiative
 
-There are 5 key stages of the Byte Building process.
+There are 4 key stages of the Byte Building process.
 
 ## 1. Familiarize Yourself With Byte Basics
 
