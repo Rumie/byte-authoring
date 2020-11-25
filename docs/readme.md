@@ -12,5 +12,5 @@ features:
   details: Our approach to vetting, organizing, and sharing Bytes.
 - title: Product Specs
   details: The technical details of our custom learning platforms.
-footer: The Rumie Initiative © 2020
+footer: Rumie © 2020
 ---
