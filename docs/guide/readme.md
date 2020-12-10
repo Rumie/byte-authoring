@@ -11,3 +11,7 @@ Byte Authoring is being defined in a 3-step process:
 ### [2. Learning Design Team Workflow](/learning-design-team-workflow)
 
 ### [3. Approval Guidelines](/approval-guidelines)
+
+### [4. Training & Resources](/training-resources)
+
+### [5. Frequently Asked Questions (FAQ)](/frequentlyAskedQuestions)
