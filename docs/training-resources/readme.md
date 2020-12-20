@@ -23,3 +23,8 @@ The Learning Design team has recurring sessions focused on building targeted ski
  - [Session Recording](https://youtu.be/0nvn5DxMiOM)
  - [Deck](https://docs.google.com/presentation/d/1NCcWBYprCFvQdwUCd0F1AF-dIfNT4rJ-Aoq7wbfAivc/edit?fbclid=IwAR1wO3gzEp2lQUxt0T-GM7UQTMrL4GDPSlEA8m9oyJgror8tUoA5vB2REZo#slide=id.g35f391192_00)
  - [Practice Activity](https://docs.google.com/document/d/1hqWzoJK5nRdm3_9cLCp1ehFTfXin2A8BkqVgZaUt7XM/edit)
+
+ ## Resources 
+*Refer to these resources below.*
+ - [Young Transition Fact Sheet](https://byte-authoring.s3.amazonaws.com/young-transition-fact-sheet.pdf)
+ - [Young Transition Learner personas](https://byte-authoring.s3.amazonaws.com/young-transition-personas.pdf)
