@@ -35,7 +35,7 @@ _Training Session_ [<u>recording</u>](https://www.youtube.com/watch?v=6gssAXr12i
 
 #### Authoring Effective LOs
 
-1. Confirm: _does it align with Rumie's_ [<u>content guidelines</u>]_?_
+1. Confirm: _does it align with Rumie's content guidelines?_
 2. _Confirm: does it add something new to the Byte library?_
 
 - Use keywords to search the existing Byte library on Rumie-Learn and objectives in ClickUp to confirm your idea is not duplicative.
@@ -93,13 +93,9 @@ In the final "Take Action" step of your Byte, give the learner a prompt for some
 
 Terminology
 
+- Choose simple vocabulary instead of jargon. Bytes should be able to be read and understood by someone who is 14 years old. 
 - Write directly to our learners, it makes the tone warm and friendly. Use terms like "you," "our," and "we."
 - When referring to a generic person whose gender is unknown or irrelevant to the context, use the singular "they" instead of "he/she."
-- Try to keep your examples as **location agnostic** as possible. Choose examples and terminology with wide applicability.<br>
-  For example:
-  - Say 'market' instead of 'grocery store'
-  - Reference a 'coworker' but don't make a scenario explicitly in an office environment
-  - Be cautious of mentioning something that might be culturally taboo (i.e. protesting, adultery, etc.)
 
 ## 4. Engage in the Peer Review Process
 
@@ -113,8 +109,9 @@ _Consider these points as you complete a peer review of a Byte._
 | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Learning Effectiveness** | _ Does the Byte fulfill the stated objective? <br> _ Is the content ordered in a logical way? (I.e. big picture before supporting details?)                                                                                                                                                                                                                                                                                                                                                            |
 | **Writing**                | _ Is the language simple and approachable? (Can I remove any jargon?) <br> _ Is the language action-oriented (i.e. "Do this" vs. "One would do this")? <br> _ Is the writing concise and direct (is there any filler that can be removed without compromising the message?) <br> _ Does the writing flow well from one point to the next? (Do transitions smoothly connect the points?)<br>                                                                                                            |
-| **Format**                 | _ Does the formatting look clean and consistent? <br> _ Does the imagery complement the writing? <br> \* Is this learning experience shorter than 10 minutes? _(i.e. When I read it through to digest the information, watch all media, and engage with questions, the total seat time should be ~10 minutes or less. **Consider your reading speed in this assessment. If you're a slow reader, allow yourself ~15 minutes per Byte. If you're a fast reader, allow yourself ~5 minutes per Byte.**)_ |
-| **Engagement**             | _ Is there at least one multiple-choice question? <br> _ Does it require the learner to apply their learning? (vs. simple recall/memorization) <br> \* Is there at least one instance of audio or video?                                                                                                                                                                                                                                                                                               |
+| **Format**                 | _ Does the formatting look clean and consistent? <br> _ Does the imagery complement the writing? <br> \* Is this learning experience shorter than 10 minutes? _(i.e. When I read it through to digest the information, watch all media, and engage with questions, the total seat time should be ~10 minutes or less. _ |
+| **Engagement**             | _ Is there at least one multiple-choice question? <br> _ Does it require the learner to apply their learning? (vs. simple recall/memorization) <br> \* Does the media reinforce the learning and help to deliver on the LO?     |
+
 
 After gathering peer review feedback, Byte authors should finesse and finalize their Byte based on these insights. 
 
@@ -126,4 +123,4 @@ At this stage, authors:
 - Can retitle their Byte
 - Add any metadata tags (e.g. essential video, polarizing content)
 
-The Byte will then undergo Rumie's review and approval process.
+The Byte will then undergo Rumie's review and approval process. At this stage, Byte authors may receive additional feedback from Rumie Reviewers before final publishing.
