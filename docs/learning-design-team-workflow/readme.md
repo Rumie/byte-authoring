@@ -3,9 +3,10 @@
 ## Team Structure
 
 * The Learning Design Team is broken down into squads.
-* Each squad has a lead who is the first point of contact for troubleshooting and answering questions for team members.
+* Each squad has a **Squad Lead** who is the first point of contact for troubleshooting and answering questions related to the Byte Building process.
 * Squad leads are responsible for assigning peer reviewers within the squad each sprint.
-* Squads will be shuffled every few months.
+* Each squad has a **Byte Advisor** who is an experienced Rumie volunteer with proven Learning Design skills. This person is a resource for squad members to ask questions related to learning design. 
+* Rumie also has designated **Gatekeepers** who review Bytes after the peer review process, before final publishing. Gatekeepers are responsible for ensuring that all Bytes align with Rumie standards.
 
 ## Slack
 
@@ -29,21 +30,19 @@ Occasionally, we will take a week between sprints as a "Catch-Up and Learning Ob
 
 ## Rumie-Build
 
-_Rumie-Build Introductory_ [<u>video</u>](https://youtu.be/SNbTKMaBSkQ)
+_Rumie-Build Introductory_ [<u>video</u>](https://youtube.com/playlist?list=PLI0ZVSELogCcavv64HhD-yUeFrZpW32gR)
 
 * Bytes are built-in Rumie-Build.
 * Upon completion of onboarding, Learning Designers will be emailed a link to access Rumie-Build.
-  - The first time Learning Designers access the link, they will be prompted to create a profile. This includes an avatar, fun facts, as well as opportunities to add a bio and link externally to their online presence.
+  - The first time Learning Designers access the link, they will be prompted to create a profile. _Learning Designers are encouraged to use the "Advanced Options" to add a bio and link to your external presence._
   - Learning Designers will use the same link to build all of their Bytes.
   - Rumie-Build will keep you automatically logged in at the end of your session. (Don't click "Log Out" unless you are on a public computer.)
 
 ## ClickUp
 
-_ClickUp Introductory_ [<u>video</u>](https://youtu.be/dEhx9DsGRu8)
-
 * Byte status' are tracked in ClickUp.
 * Upon completion of onboarding, Learning Designers will receive an invitation to join ClickUp. 
-  - Unfortunately, this will come as multiple emails for each of the content topics. Fortunately, it only happens once!
+
 
 ### Statuses
 
@@ -54,17 +53,16 @@ As you move through the sprint process (authoring, peer review, and revision,) y
 |  |  |
 | --- | --- |
 | The objective for Peer Review | * This is an objective that is ready for the second set of eyes. <br> * Reviewers, consider the objective in the context of the guidelines. <br> * Make changes directly to the LO, or @tag the author with comments. <br> * Once the reviewer 'blesses' the objective, the reviewer changes the status. <br> |
-| Ready to Build | * This is an objective that has been peer-reviewed and is ready to be built into a Byte. <br> * Ready to Build objectives are considered 'up for grabs' until/unless someone has claimed it by making themself the 'assignee.' <br> * Once you claim an objective (by making yourself the "assignee" at the start of a sprint), change the status. <br> |
-| Build-in Progress | * This indicates that you are currently working on your first draft of the Byte. <br> * Add the Byte URL from Rumie-Build. <br> * Change the status when you have completed your first draft of the Byte (at the end of week 1 of the sprint). <br>|
-| Byte for Peer Review | * This indicates that the Byte draft is complete and ready for peer review. <br> * Peer reviewers may review in any order using the Peer Review Checklist. <br> * Peer reviewers make comments either by commenting on the task within ClickUp or by leaving comments directly in the Byte using the comments feature. <br> * After giving comments, the first person to peer review changes the status. |
-| Byte for Peer Review 2 | * This indicates that the Byte draft has received one set of peer review comments. <br> * Peer reviewers may review in any order using the Peer Review Checklist. <br> * Peer reviewers make comments either by commenting on the task within ClickUp or by leaving comments directly in the Byte using the comments feature. <br> * After giving comments, the second person to peer review changes the status. <br> |
-| Revisions in Progress | * This indicates that you are incorporating peer review feedback to finalize your Byte. <br> * After finalizing, click "Publish" in Rumie Build. - Select a cover photo - Retitle the Byte (using Title Case) - Categorize according to category/topic/theme - Select appropriate timing <br> * Change the Byte status after publishing. <br> |
-| Byte for Rumie Review | * This indicates that the Byte is ready for Rumie review/approval. <br> * Rumie will review the Byte in correspondence with the Approval Guidelines. <br> * Rumie will change the status after approving the Byte. <br> |
+| Ready to Build | * This is an objective that has been peer-reviewed and is ready to be built into a Byte. <br> * Ready to Build objectives are considered 'up for grabs' until/unless someone has claimed it by making themself the 'assignee.' <br> * Once you claim an objective (by making yourself the "assignee" at the start of a sprint), change the status to "Build In Progress". <br> |
+| Build-in Progress | * This indicates that you are currently working on your first draft of the Byte. <br> * Add the Byte URL from Rumie-Build. <br> * Change the status when you have completed your first draft of the Byte to "Byte for Peer Review" (at the end of week 1 of the sprint). <br>|
+| Byte for Peer Review | * This indicates that the Byte draft is complete and ready for peer review. <br> * **Peer reviewers may review in any order** using the Peer Review Checklist. <br> * Peer reviewers make comments by leaving comments directly in the Byte using the comments feature. <br> * After giving comments, the first person to peer review changes the status to "Byte for Peer Review 2". |
+| Byte for Peer Review 2 | * This indicates that the Byte draft has received one set of peer review comments. <br> * Peer reviewers may review in any order using the Peer Review Checklist. <br> * Peer reviewers make comments directly in the Byte using the comments feature. <br> * After giving comments, the second person to peer review changes the status to "Revisions in Progress". <br> |
+| Revisions in Progress | * This indicates that you are incorporating peer review feedback to finalize your Byte. <br> * After finalizing, click "Submit for Review" in Rumie Build. - Select a cover photo - Retitle the Byte - Categorize according to category/topic/theme - Select appropriate timing <br> * Change the Byte status after publishing to "Byte for Rumie Review". <br> |
+| Byte for Rumie Review | * This indicates that the Byte is ready for Rumie review. <br> * A Rumie Gatekeeper will review the Byte in correspondence with the Approval Guidelines. <br> * Rumie will change the status after reviewing the Byte. <br> |
+| Byte for Approval | * This indicates that the Byte is ready to be tagged and published to Rumie-Learn. Rumie will change the status after publishing the Byte. <br> |
 | Byte Published | * This indicates that the Byte is live on Rumie-Learn. <br> |
 
 ### ClickUp Dashboard
-
-_Individual Dashboard Demo_ [<u>video</u>](https://youtu.be/qSk8ail4b9M)
 
 * Access your individual dashboard by clicking the icon on the left-hand side (below the bell icon).
 * The individual dashboard shows the Bytes you are authoring and assigned for peer review.<br>
