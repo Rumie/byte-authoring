@@ -23,89 +23,18 @@ Rumie will not post authored content that:
 
 Before publishing any Bytes publicly, Rumie reviews Bytes for the following elements:
 
-- Correct spelling and grammar
+- Correct spelling and grammar (following American conventions)
 - Appropriate formatting
 - Sufficient attribution (facts and external imagery are accompanied by a source as needed)
 - Appropriate categorization under related category/topic/theme
 - Appropriate timing selection (3/6/9 min)
 
-## Tagging
+## Title Conventions
 
-Tags are small keywords that you attach to your Byte. Tags act like labels to tell users what the content is about.
-
-If Rumie-Learn is like a gigantic book, tags are what make up the **index**. They let learners browse and find the content that is most relevant to them, without reading everything cover to cover.
-
-### Tags vs. Categories
-
-If tags are like the index, categories are like the chapters listed in the table of contents at the start. They're the big buckets that Rumie-Learn is made of.
-
-In general, categories are longer than tags (a few words rather than just one or two keywords) and you'll have fewer of them.
-
-- Tags are short and specific, typically 1-2 words.
-- Categories tend to be longer and more general.
-- Your categories are like your table of contents, and your tags are like your index.
-- Categories are hierarchical and required. Tags are not.
-
-### Tagging Areas
-
-#### UN Sustainable Development Goals (SDGs)
-
-Byte content relates or contributes to one/more SDGs:
-
-- #sdg1nopoverty
-- #sdg2zerohunger
-- #sdg3goodhealth
-- #sdg4qualityeducation
-- #sdg5genderequality
-- #sdg6cleanwater
-- #sdg7cleanenergy
-- #sdg8decentwork
-- #sdg9industry
-- #sdg10reducedinequality
-- #sdg11sustainablecities
-- #sdg12responsibleconsumption
-- #sdg13climateaction
-- #sdg14lifebelowwater
-- #sdg15lifeonland
-- #sdg16peaceandjustice
-- #sdg17partnership<br>
-
-#### Geotagging
-
-Content is only relevant or appropriate in certain regions. E.g., #north-america, #afghanistan, #usa, #canada, #toronto, #new-york-city, #barcelona etc.
-
-#### Learner Intent
-
-Is the learner uncovering a problem or a solution?
-
-- \*_problem aware: the learner is seeking to understand personal leadership_
-
-E.g., [<u>#build-a-growth-mindset</u>](https://learn.rumie.org/jR/bytes/reach-your-potential-with-stretch-goals/view)
-
-- \*_solution aware: the learner is exploring possible solutions to address behaviral interviews_
-
-E.g., [<u>#get-a-better-job</u>](https://learn.rumie.org/jR/bytes/get-the-job-picking-a-professional-profile-picture/view)
-
-- \*_problem aware: the learner is seeking to understand business valuation_
-
-E.g., [<u>#become-an-entrepreneur</u>](https://learn.rumie.org/jR/bytes/calculate-return-on-investment-roi/view)
-
-- \*_solution aware: the learner is exploring ways to lead a healthier lifestyle_
-
-E.g., [<u>#live-a-healthier-life</u>](https://learn.rumie.org/jR/bytes/eat-healthy-balancing-the-food-groups/view)
-
-#### Trends
-
-Focus on trends and fluid topics. Trends are topical (may be highly relevant now, and less relevant in 12 months) in contrast to categories (which are likely to be equally relevant today and in 12 months).
-
-Examples might include:
-
-- #covid19
-- #space-force
-- #remote-work
-- #fake-news
-- #canada
-- #usa
-- #afganistan 
+Choose one of the following formats to title your Byte:
+- A question. Mimic a search query. _How do I pick a college?_
+- Learn to X in # min. _Learn to meditate in 3 min_
+- # ways to X. _3 ways to proof your resume_
+- # reasons to X. _4 reasons to use SCRUM on your next project_
 
 Document generated on Oct 05, 2020 02:40
