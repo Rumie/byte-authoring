@@ -3,7 +3,7 @@
 ## Rumie-Learn FAQ 
 
 ### 1. What CC license is Rumie operating under? 
-- [License](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+- [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 ## Rumie-Build FAQ
 
