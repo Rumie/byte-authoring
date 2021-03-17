@@ -1,5 +1,10 @@
 # Frequently Asked Questions (FAQ)
 
+## Rumie-Learn FAQ 
+
+### 1. What CC license is Rumie operating under? 
+- [License](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
 ## Rumie-Build FAQ
 
 ### 1. I am getting an error message that says no workshops found. How can I troubleshoot?
@@ -107,4 +112,6 @@ _If you are the first person to review, change the status to "Byte for Peer Revi
 
 ### 7. When do I change the status to "Byte Published"?
   - _Never change the Byte status to "Byte Published." When you publish the Byte in Rumie-Build, change the status to "Byte for Rumie Review." Rumie will change the status to "Byte Published" after approving the Byte. You will receive an email when your Byte is live on Rumie-Learn._
+
+
 
