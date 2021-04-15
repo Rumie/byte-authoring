@@ -34,7 +34,7 @@ Before publishing any Bytes publicly, Rumie reviews Bytes for the following elem
 Choose one of the following formats to title your Byte:
 - A question. Mimic a search query. _How do I pick a college?_
 - Learn to X in # min. _Learn to meditate in 3 min_
-- # ways to X. _3 ways to proof your resume_
-- # reasons to X. _4 reasons to use SCRUM on your next project_
+- [Number of] ways to X. _3 ways to proof your resume_
+- [Number of] reasons to X. _4 reasons to use SCRUM on your next project_
 
 Document generated on Oct 05, 2020 02:40
