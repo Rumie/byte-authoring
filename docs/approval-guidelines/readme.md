@@ -19,6 +19,13 @@ Rumie will not post authored content that:
 9. may not publish or post other people's private information (such as home phone number and address) without their express authorization and permission.
 10. may not violate others' intellectual property rights, including copyright and trademark.
 
+### Partner Content Creator Standards
+- The purpose of Bytes is to support learning and share expertise, not promote a product or political viewpoint.
+- Within the body of the Byte, Partner’s are permitted to include one external link to the organization where it is relevant to the content itself or in the "Take Action Step" to link to additional resources.
+- Partners are not permitted to direct learners to a product or service that they are selling as this compromises the integrity of the content.
+- Partners may never put their Byte content behind a paywall.
+
+
 ## Proofing
 
 Before publishing any Bytes publicly, Rumie reviews Bytes for the following elements:
