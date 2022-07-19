@@ -12,7 +12,7 @@ Rumie will not post authored content that:
 2. may create a risk of any other loss or damage to any person or property;
 3. seeks to harm or exploit children by exposing them to inappropriate content, asking for personally identifiable details or otherwise;
 4. may constitute or contribute to a crime or tort;
-5. contains any information or content that we deem to be unlawful, harmful, abusive, racially or ethnically offensive, defamatory, infringing, invasive of personal privacy or publicity rights, harassing, humiliating to other people (publicly or otherwise), libellous, threatening, profane, obscene, or otherwise objectionable;
+5. contains any information or content that we deem to be unlawful, harmful, abusive, racially or ethnically offensive, defamatory, infringing, invasive of personal privacy or publicity rights, harassing, humiliating to other people (publicly or otherwise), libelous, threatening, profane, obscene, or otherwise objectionable;
 6. contains any information or content that is illegal (including, without limitation, the disclosure of insider information under securities law or of another party's trade secrets);
 7. contains any information or content that you do not have a right to make available under any law or under contractual or fiduciary relationships; or
 8. contains any information or content that you know is not correct and current.
